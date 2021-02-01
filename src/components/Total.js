@@ -1,4 +1,5 @@
 import React from 'react'
+import AddCar from './AddCar'
 
 const Total = (props) => {
     return (
